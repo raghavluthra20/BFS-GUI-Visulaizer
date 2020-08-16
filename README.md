@@ -1,7 +1,7 @@
 # BFS-GUI-Visulaizer
 
 ## Description
-A GUI application created using pygame to visualize Bread First Serach(BFS) Pathfinding Algorithm
+A GUI application created using pygame to visualize Breadth First Serach(BFS) Pathfinding Algorithm
 
 ## Instruction to use
 0. Execute BFS.py
